@@ -1,0 +1,23 @@
+const { gql } = require('apollo-server');
+
+const bookSchema = gql `
+    type Author {
+        name: String!
+        about: String
+    }
+
+    type Book {
+        name: String!
+        language: String!
+        author: Author!
+        pages: Int!
+        about: String
+    }
+
+    type Query {
+        books: [Book]
+        book(id: ID!): Book!
+    }
+`;
+
+module.exports = bookSchema;

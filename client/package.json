@@ -1,0 +1,19 @@
+{
+  "name": "graphql-client-example",
+  "version": "1.0.0",
+  "description": "Exemplo de implementação do client para a apresentação de Introdução ao GraphQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredoms-eventos/pagseguro-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredoms-eventos/pagseguro-graphql/issues"
+  },
+  "homepage": "https://github.com/alfredoms-eventos/pagseguro-graphql#readme"
+}

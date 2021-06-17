@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Harry Potter e a Pedra Filosofal",
+            "language": "Português",
+            "author": 1,
+            "pages": 265,
+            "about": "Quando virou o envelope, com a mão trêmula, Harry viu um lacre de cera púrpura com um brasão; um leão, uma águia, um texugo e uma cobra circulando uma grande letra 'H'. Harry Potter nunca havia ouvido falar de Hogwarts quando as cartas começaram a aparecer no capacho da Rua dos Alfeneiros, nº 4. Escritos a tinta verde-esmeralda em pergaminho amarelado com um lacre de cera púrpura, as cartas eram rapidamente confiscadas por seus pavorosos tio e tia. Então, no aniversário de onze anos de Harry, um gigante com olhos que luziam como besouros negros chamado Rúbeo Hagrid surge com notícias surpreendentes: Harry Potter é um bruxo e tem uma vaga na Escola de Magia e Bruxaria de Hogwarts. Uma incrível aventura está para começar!"
+        },
+        {
+            "id": 2,
+            "name": "Harry Potter e a Câmara Secreta",
+            "language": "Português",
+            "author": 1,
+            "pages": 299,
+            "about": "Há uma trama, Harry Potter. Uma trama para fazer coisas terríveis acontecerem na Escola de Magia e Bruxaria de Hogwarts este ano. O verão de Harry Potter incluiu o pior aniversário de todos, avisos macabros de um elfo doméstico chamado Dobby, e ser resgatado dos Dursleys por seu amigo Rony Weasley em um carro voador mágico! De volta à Escola de Magia e Bruxaria de Hogwarts para seu segundo ano, Harry ouve estranhos sussurros ecoando pelos corredores vazios - e então, os ataques começam! Estudantes são encontrados transformados em pedra... As previsões sinistras de Dobby parecem estar se tornando realidade."
+        },
+        {
+            "id": 3,
+            "name": "A Arte Cavalheiresca do Arqueiro Zen",
+            "language": "Português",
+            "author": 2,
+            "pages": 104,
+            "about": "Em nova edição e com prefácio de Monja Coen e introdução do professor Suzuki, este é o segundo volume da coleção Clássicos Zen por Monja Coen. Trazendo o fantástico para o nível real, o filósofo alemão Eugen Herrigel, conta nessa obra a sua extraordinária experiência como discípulo de um mestre Zen, com quem aprendeu a arte de atirar com arco, durante os anos em que viveu no Japão. Esse é um livro que ajudará o leitor do Ocidente a penetrar na essência dessa experiência oriental."
+        }
+    ],
+    "authors": [
+        {
+            "id": 1,
+            "name": "J.K. Rowling",
+            "about": "Joanne 'Jo' Rowling, OBE, FRSL, mais conhecida como J. K. Rowling, é uma escritora, roteirista e produtora cinematográfica britânica, notória por escrever a série de livros Harry Potter. Os livros ganharam uma popularidade mundial, recebendo múltiplos prêmios e vendendo mais de 500 milhões de cópias."
+        },
+        {
+            "id": 2,
+            "name": "Eugen Herrigel",
+            "about": "Eugen Herrigel foi um filósofo alemão que ensinou filosofia na Universidade Imperial Tohoku em Sendai, Japão, de 1924 a 1929 e introduziu o Zen em grande parte da Europa através de seus escritos."
+        }
+    ]
+}
